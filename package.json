@@ -1,0 +1,15 @@
+{
+  "name": "sgtechnology",
+  "version": "0.0.1",
+  "description": "standard library for helping in apps developing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sgtclothes/sgtechnology.git"
+  },
+  "author": "SGT",
+  "license": "ISC"
+}
